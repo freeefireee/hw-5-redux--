@@ -1,0 +1,16 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #25534a;
+}
+
+header {
+    justify-content: space-between;
+    background-color: #4d888a;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
